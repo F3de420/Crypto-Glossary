@@ -33,7 +33,6 @@ author: F3de420
 
 ### 51% Attack
 - **Definition**: An attack on a blockchain by a group controlling more than 50% of the network's mining hash rate, allowing them to prevent new transactions from gaining confirmations, reverse transactions, and double-spend coins.
-- **Sources**: [Investopedia](https://www.investopedia.com/terms/1/51-attack.asp), [CoinDesk](https://www.coindesk.com/learn/what-is-a-51-attack/), [CoinMarketCap](https://coinmarketcap.com/academy/glossary/51-attack)
 
 ## A
 
@@ -41,7 +40,7 @@ author: F3de420
 - **Definition**: An alphanumeric string representing a destination for cryptocurrency transactions.
 
 ### Airdrop
-- **Definition**: The free distribution of tokens to holders of a particular cryptocurrency as part of a promotion or reward.
+- **Definition**: The free distribution of tokens of a particular cryptocurrency as part of a promotion or reward.
 
 ### Air Gap
 - **Definition**: A security measure where the device storing cryptocurrency keys is physically isolated from unsecured networks.
